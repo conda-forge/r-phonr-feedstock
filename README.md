@@ -1,11 +1,11 @@
-About r-phonr
-=============
+About r-phonr-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phonr-feedstock/blob/main/LICENSE.txt)
 
 Home: http://drammock.github.io/phonR/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phonr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools for phoneticians and phonologists, including functions for normalization and plotting of vowels.
 
